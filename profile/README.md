@@ -2,4 +2,5 @@
 
 The egg (e-graphs good) project uses e-graphs to provide a new way to build program optimizers and synthesizers.
 
-More information is on [our website](https://egraphs-good.github.io/).
+More information is on [our website](https://egraphs-good.github.io/),
+ and discussion is in the [EGRAPHS Community Zulip](https://egraphs.zulipchat.com).
